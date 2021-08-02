@@ -60,12 +60,12 @@
 }
 .btn-default:active,
 .btn-default.active {
-  background-color: #e0e0e0;
+  background-color: ##f0f89f;
   border-color: #dbdbdb;
 }
 .btn-default:disabled,
 .btn-default[disabled] {
-  background-color: #e0e0e0;
+  background-color: ##f0f89f;
   background-image: none;
 }
 .btn-primary {
@@ -105,17 +105,17 @@
 }
 .btn-success:hover,
 .btn-success:focus {
-  background-color: #419641;
+  background-color: ##f0f89f;
   background-position: 0 -15px;
 }
 .btn-success:active,
 .btn-success.active {
-  background-color: #419641;
+  background-color: ##f0f89f;
   border-color: #3e8f3e;
 }
 .btn-success:disabled,
 .btn-success[disabled] {
-  background-color: #419641;
+  background-color: ##f0f89f;
   background-image: none;
 }
 .btn-info {
